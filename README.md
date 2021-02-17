@@ -16,5 +16,5 @@ Please follow the print statement instructions!
 Thanks and have fun!
 
 # Sample Output .xlsx
-It uses sp500 file with n=50 (# of stocks selected) and portfolio_size = $100, 000
+It uses sp500 file with n=50 (# of stocks selected) with a portfolio_size = $100,000
 
