@@ -1,5 +1,6 @@
 # portfolio-diversifier
 This script will help you diversity your portfolio based on a .csv file's ticker's HIGHEST average return %.
+It selects N (you specify N) tickers from the Excel sheet tickers file you have given to the program and will return the N tickers with the highest average return % throughout the years.
 
 # Notice: This script does not use real data!
 It gets data from the IEX Cloud's Sandbox API. If you have paid for the IEX Cloud API, you can just switch the batch url link.
